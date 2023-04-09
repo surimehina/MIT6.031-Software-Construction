@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb85c011-d0e9-4e01-801a-975e620c612e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ps/ps0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/graph/ConcreteEdgesGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/graph/ConcreteVerticesGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/graph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/poet/GraphPoet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/poet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/src/poet/mugar-omni-theater.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/test/graph/ConcreteEdgesGraphTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/test/graph/ConcreteVerticesGraphTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/test/graph/GraphInstanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/ps2/test/graph/GraphStaticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/Hailstone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/rules/RulesOf6005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/rules/RulesOf6005Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/Action$ActionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/DrawableTurtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/LineSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/My_TurtleSoupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/PenColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/Turtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/TurtleGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/TurtleGUI$AnimationThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/TurtleGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/TurtleSoup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/bin/turtle/TurtleSoupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/Hailstone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/rules/RulesOf6005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/rules/RulesOf6005Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/DrawableTurtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/LineSegment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/MY_TurtleSoupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/PenColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/Turtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/TurtleGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/TurtleSoup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss0/src/turtle/TurtleSoupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/Extract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/Filter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/SocialNetwork.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/Timespan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/Tweet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/src/twitter/TweetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/test/twitter/ExtractTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/test/twitter/FilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ps/pss1/test/twitter/SocialNetworkTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OBDN1xKnJnIcH8OjTnrn6zlfkl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb85c011-d0e9-4e01-801a-975e620c612e" name="Default Changelist" comment="" />
+      <created>1681025044625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681025044625</updated>
+      <workItem from="1681025046957" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
