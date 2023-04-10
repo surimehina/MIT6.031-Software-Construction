@@ -61,7 +61,12 @@ public class TurtleSoup {
      * @param sideLength length of each side
      */
     public static void drawRegularPolygon(Turtle turtle, int sides, int sideLength) {
-        throw new RuntimeException("implement me!");
+        double angle = calculateRegularPolygonAngle(sides);
+
+        for (int i = 0; i < sides; i++) {
+            turtle.forward(sideLength);
+            turtle.turn(angle);
+        }
     }
 
     /**
@@ -83,9 +88,14 @@ public class TurtleSoup {
      * @return adjustment to heading (right turn amount) to get to target point,
      *         must be 0 <= angle < 360
      */
-    public static double calculateHeadingToPoint(double currentHeading, int currentX, int currentY,
-                                                 int targetX, int targetY) {
-        throw new RuntimeException("implement me!");
+    public static double calculateHeadingToPoint(double currentHeading, int currentX, int currentY,int targetX, int targetY) {
+        double temp = Math.atan2(targetY - currentY, targetX - currentX) - currentHeading;
+        temp = temp / Math.PI * 180.0;
+        double angel = - currentHeading + 90 - temp;
+        while (angel < 0){
+            angel += 360;
+        }
+        return 	angel;
     }
 
     /**
@@ -103,7 +113,14 @@ public class TurtleSoup {
      *         otherwise of size (# of points) - 1
      */
     public static List<Double> calculateHeadings(List<Integer> xCoords, List<Integer> yCoords) {
-        throw new RuntimeException("implement me!");
+        List<Double> headings = new ArrayList<>();
+        double currentHeading = 0;
+        for (int i = 0; i < xCoords.size() - 1; i++) {
+            double heading2 = calculateHeadingToPoint(xCoords.get(i), yCoords.get(i), xCoords.get(i + 1), yCoords.get(i + 1));
+            headings.add(heading2 - currentHeading);
+            currentHeading = heading2;
+        }
+        return headings;
     }
 
     /**
@@ -115,7 +132,7 @@ public class TurtleSoup {
      * @param turtle the turtle context
      */
     public static void drawPersonalArt(Turtle turtle) {
-        throw new RuntimeException("implement me!");
+        // I dont konw draw some.
     }
 
     /**
